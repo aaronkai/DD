@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  strength: 
+  dexterity: 
+  constitution: 
+  intelligence: 
+  wisdom: 
+  charisma: 
+  proficiencyBonus: 
+  armorClass: 
+  initiative: 
+  speed: 
+  hp: 
+  hitDice: MyString
+  references: 
+
+two:
+  strength: 
+  dexterity: 
+  constitution: 
+  intelligence: 
+  wisdom: 
+  charisma: 
+  proficiencyBonus: 
+  armorClass: 
+  initiative: 
+  speed: 
+  hp: 
+  hitDice: MyString
+  references: 

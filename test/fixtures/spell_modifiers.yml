@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  spellClass: MyString
+  castingAbility: 
+  spellSaveDC: 
+  spellAttackBonus: 
+  character_id: 
+
+two:
+  spellClass: MyString
+  castingAbility: 
+  spellSaveDC: 
+  spellAttackBonus: 
+  character_id: 

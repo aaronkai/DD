@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  weaponName: MyString
+  attackBonus: MyString
+  damageType: MyString
+  character_id: 
+
+two:
+  weaponName: MyString
+  attackBonus: MyString
+  damageType: MyString
+  character_id: 
