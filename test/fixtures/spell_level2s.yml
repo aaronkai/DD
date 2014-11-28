@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  spellName: MyString
+  spellDescription: MyString
+  character_id: 
+
+two:
+  spellName: MyString
+  spellDescription: MyString
+  character_id: 
