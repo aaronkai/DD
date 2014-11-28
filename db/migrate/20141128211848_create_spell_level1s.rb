@@ -3,6 +3,8 @@ class CreateSpellLevel1s < ActiveRecord::Migration
     create_table :spell_level1s do |t|
       t.string :spellName
       t.string :spellDescription
+      t.references :character, index: true
+
 
       t.timestamps
     end

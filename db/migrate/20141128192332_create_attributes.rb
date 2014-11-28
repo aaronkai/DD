@@ -13,6 +13,7 @@ class CreateAttributes < ActiveRecord::Migration
       t.interger :speed
       t.interger :hp
       t.string :hitDice
+      t.references :character, index: true
 
       t.timestamps
     end
